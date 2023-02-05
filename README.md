@@ -6,7 +6,7 @@
 </p>
 <h1 align="center"></h1>
 
-**(в разработке)**  
+**(в разработке)**
 Интернет-магазин товаров для специалистов в сфере услуг красоты.
 
 Требуется реализовать:
@@ -31,17 +31,23 @@ git clone https://github.com/geocrane/beautyboom.git
 Для запуска на локальном сервере поочередно выполните:
 ```
 python3 -m venv venv
-
+```
+```
 source venv/bin/activate
-
+```
+```
 python3 -m pip install --upgrade pip
-
+```
+```
 pip install -r requirements.txt
-
+```
+```
 cd beautyboom
-
+```
+```
 python3 manage.py migrate
-
+```
+```
 python3 manage.py runserver
 ```
 
