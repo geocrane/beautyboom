@@ -22,7 +22,7 @@
 - SQLite 3 (с заменой на PostgreSQL)
 - free-шаблон HTML/CSS/JS
 
-## Запуск (на примере Linux): 
+## Запуск (на примере Linux):
 Cклонируйте репозиторий на локальный пк:
 ```
 git clone https://github.com/geocrane/beautyboom.git
