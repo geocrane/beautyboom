@@ -1,0 +1,114 @@
+[
+    {
+        "type": "File",
+        "name": "/home/geornd/Dev/beautyboom/beautyboom/shop/models.py",
+        "parent_id": null,
+        "workspaceRoot": "/home/geornd/Dev/beautyboom",
+        "workspacePath": "beautyboom/shop/models.py",
+        "id": "ajlBD3EFI0VQP2w7"
+    },
+    {
+        "type": "File",
+        "name": "/home/geornd/Dev/beautyboom/beautyboom/beautyboom/urls.py",
+        "parent_id": null,
+        "workspaceRoot": "/home/geornd/Dev/beautyboom",
+        "workspacePath": "beautyboom/beautyboom/urls.py",
+        "id": "40H8MG7vskBoVJiK"
+    },
+    {
+        "type": "File",
+        "name": "/home/geornd/Dev/beautyboom/beautyboom/shop/urls.py",
+        "parent_id": null,
+        "workspaceRoot": "/home/geornd/Dev/beautyboom",
+        "workspacePath": "beautyboom/shop/urls.py",
+        "id": "vfhRmDYIUc4teZ89"
+    },
+    {
+        "type": "File",
+        "name": "/home/geornd/Dev/beautyboom/beautyboom/shop/views.py",
+        "parent_id": null,
+        "workspaceRoot": "/home/geornd/Dev/beautyboom",
+        "workspacePath": "beautyboom/shop/views.py",
+        "id": "OeiKvHyfxU0Y9GZW"
+    },
+    {
+        "type": "File",
+        "name": "/home/geornd/Dev/beautyboom/beautyboom/templates/shop/shop.html",
+        "parent_id": null,
+        "workspaceRoot": "/home/geornd/Dev/beautyboom",
+        "workspacePath": "beautyboom/templates/shop/shop.html",
+        "id": "PhUT3rpk4vRzQfdi"
+    },
+    {
+        "type": "File",
+        "name": "/home/geornd/Dev/beautyboom/beautyboom/templates/shop/index.html",
+        "parent_id": null,
+        "workspaceRoot": "/home/geornd/Dev/beautyboom",
+        "workspacePath": "beautyboom/templates/shop/index.html",
+        "id": "kJi7VNxuXYlhvbEW"
+    },
+    {
+        "type": "File",
+        "name": "/home/geornd/Dev/beautyboom/beautyboom/templates/base.html",
+        "parent_id": null,
+        "workspaceRoot": "/home/geornd/Dev/beautyboom",
+        "workspacePath": "beautyboom/templates/base.html",
+        "id": "G8JzgUTwHRt9VrKX"
+    },
+    {
+        "type": "File",
+        "name": "/home/geornd/Dev/beautyboom/beautyboom/beautyboom/settings.py",
+        "parent_id": null,
+        "workspaceRoot": "/home/geornd/Dev/beautyboom",
+        "workspacePath": "beautyboom/beautyboom/settings.py",
+        "id": "UI4XrvZQsotVdBOE"
+    },
+    {
+        "type": "Group",
+        "name": "templates",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "aYcv1hd8QrXjWAI4"
+    },
+    {
+        "type": "File",
+        "name": "/home/geornd/Dev/beautyboom/beautyboom/templates/base.html",
+        "parent_id": "aYcv1hd8QrXjWAI4",
+        "workspaceRoot": "/home/geornd/Dev/beautyboom",
+        "workspacePath": "beautyboom/templates/base.html",
+        "id": "nFoIeaMHLcD3JG1Y"
+    },
+    {
+        "type": "File",
+        "name": "/home/geornd/Dev/beautyboom/beautyboom/templates/shop/shop.html",
+        "parent_id": "aYcv1hd8QrXjWAI4",
+        "workspaceRoot": "/home/geornd/Dev/beautyboom",
+        "workspacePath": "beautyboom/templates/shop/shop.html",
+        "id": "wfQ3d0CYUV8hTJoN"
+    },
+    {
+        "type": "File",
+        "name": "/home/geornd/Dev/beautyboom/beautyboom/templates/shop/index.html",
+        "parent_id": "aYcv1hd8QrXjWAI4",
+        "workspaceRoot": "/home/geornd/Dev/beautyboom",
+        "workspacePath": "beautyboom/templates/shop/index.html",
+        "id": "8kegfnKBsEZUmvIX"
+    },
+    {
+        "type": "File",
+        "name": "/home/geornd/Dev/beautyboom/beautyboom/templates/shop/cart.html",
+        "parent_id": "aYcv1hd8QrXjWAI4",
+        "workspaceRoot": "/home/geornd/Dev/beautyboom",
+        "workspacePath": "beautyboom/templates/shop/cart.html",
+        "id": "6W1vKea9sPlCfoG8"
+    },
+    {
+        "type": "File",
+        "name": "/home/geornd/Dev/beautyboom/beautyboom/cart/templates/cart/detail.html",
+        "parent_id": "aYcv1hd8QrXjWAI4",
+        "workspaceRoot": "/home/geornd/Dev/beautyboom",
+        "workspacePath": "beautyboom/cart/templates/cart/detail.html",
+        "id": "X2ZSi4zgQxpYRID8"
+    }
+]
